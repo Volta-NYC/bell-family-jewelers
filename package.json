@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "tsc --noEmit",
+    "generate:data": "python3 scripts/generate_data.py"
   },
   "dependencies": {
     "next": "latest",
@@ -14,6 +15,7 @@
     "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/node": "^25.6.2",
     "@types/react": "^19.2.14",
     "autoprefixer": "^10.0.0",
     "postcss": "^8.0.0",
