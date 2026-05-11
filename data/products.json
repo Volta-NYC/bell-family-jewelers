@@ -1,943 +1,2580 @@
 [
   {
-    "name": "Tennis Bracelet",
-    "slug": "c1br114",
+    "name": "LAB GROWN DIAMOND 2 PAPER CLIP BRACELET",
+    "slug": "lgbr018-lab-grown-diamond-2-paper-clip-bracelet-lab-grown-diamond-2-paper-clip-bracelet-30069",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "image-unavailable-in-source"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR018"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/thumbnail-c885fd6789be.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-2-paper-clip-bracelet-30069.html?customerid="
+  },
+  {
+    "name": "Tennis Bracelet",
+    "slug": "c1br115-tennis-bracelet-tennis-bracelet-29991",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "C1BR115"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/c1br115-41a96127b1ce.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/tennis-bracelet-29991.html?customerid="
+  },
+  {
+    "name": "Tennis Bracelet",
+    "slug": "c1br114-tennis-bracelet-tennis-bracelet-29990",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "tennis"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "C1BR114"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-8a819a803a05.png"
+      "/media/c1br114-d5533ad7eee1.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/tennis-bracelet-29990.html?customerid="
+  },
+  {
+    "name": "Tennis Bracelet",
+    "slug": "70652-tennis-bracelet-tennis-bracelet-29625",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "70652"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/70652-0356d05f8241.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/tennis-bracelet-29625.html?customerid="
   },
   {
     "name": "Tennis Bracelet",
-    "slug": "70651",
+    "slug": "70651-tennis-bracelet-tennis-bracelet-29624",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "tennis"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "70651"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-1a6e0408f83f.png"
+      "/media/70651-0d069e521347.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/tennis-bracelet-29624.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 2 PAPER CLIP BRACELET",
+    "slug": "lgbr005-lab-grown-diamond-2-paper-clip-bracelet-lab-grown-diamond-2-paper-clip-bracelet",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR005"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr005-ce4880838bfb.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-2-paper-clip-bracelet.html?customerid="
   },
   {
     "name": "LAB GROWN DIAMOND BRACELET",
-    "slug": "lgbr004",
+    "slug": "lgbr004-lab-grown-diamond-bracelet-lab-grown-diamond-bracelet-28727",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGBR004"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-1948dd0715f4.png"
+      "/media/lgbr004-7e0d1e166d11.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-bracelet-28727.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND FLEXIBLE ETERNITY BANGLE",
+    "slug": "lgbr003-lab-grown-diamond-flexible-eternity-bangle-lab-grown-diamond-flexible-eternity-bangle",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR003"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr003-b10f00272426.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-flexible-eternity-bangle.html?customerid="
   },
   {
     "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
-    "slug": "lgbr001-9",
+    "slug": "lgbr001-9-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28725",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGBR001-9"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-d8b78ccdeb82.png"
+      "/media/lgbr001-9-9cf6c42fc786.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28725.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
+    "slug": "lgbr001-8-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28724",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR001-8"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr001-9-9cf6c42fc786.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28724.html?customerid="
   },
   {
     "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
-    "slug": "lgbr001-7",
+    "slug": "lgbr001-7-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28723",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGBR001-7"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-05cf728cfc6e.png"
+      "/media/lgbr001-9-9cf6c42fc786.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28723.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
+    "slug": "lgbr001-6-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28722",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR001-6"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr001-9-9cf6c42fc786.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28722.html?customerid="
   },
   {
     "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
-    "slug": "lgbr001-4-5",
+    "slug": "lgbr001-4-5-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28721",
     "category": "Bracelets",
-    "subcategory": null,
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGBR001-4.5"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-1e89405617e0.png"
+      "/media/lgbr001-9-9cf6c42fc786.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28721.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
+    "slug": "lgbr001-4-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28720",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR001-4"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr001-9-9cf6c42fc786.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
     "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28720.html?customerid="
   },
   {
-    "name": "COLOR RINGS OVAL",
-    "slug": "84502",
-    "category": "Color Rings",
-    "subcategory": null,
+    "name": "LAB GROWN DIAMOND 4 PRONG IN LINE TENNIS BRACELET",
+    "slug": "lgbr001-3-lab-grown-diamond-4-prong-in-line-tennis-bracelet-lab-grown-diamond-4-prong-in-line-tennis-bracelet-28719",
+    "category": "Bracelets",
+    "subcategory": "Bracelets",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "tennis"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGBR001-3"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lgbr001-9-9cf6c42fc786.webp"
+    ],
+    "priceNote": "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/bracelets",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_bracelets.md",
+    "productPageUrl": "https://iframes.ovnight.com/bracelets/lab-grown-diamond-4-prong-in-line-tennis-bracelet-28719.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS",
+    "slug": "83701-color-rings-color-rings",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series",
+      "image-unavailable-in-source"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "83701"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/thumbnail-f3f4551bd205.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings.html?customerid="
+  },
+  {
+    "name": "ENGAGEMENT RINGS HALO OVAL",
+    "slug": "84512-engagement-rings-halo-oval-engagement-rings-halo-oval-8095",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84512"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/84512-0f048123044e.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/engagement-rings-halo-oval-8095.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84502-color-rings-oval-color-rings-oval-8077",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84502"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-c514dd56c803.png"
+      "/media/84502-ab8779075ec2.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8077.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84491",
+    "slug": "84492-color-rings-oval-color-rings-oval-8067",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84492"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84492-6d061d04ff1f.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8067.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84491-color-rings-oval-color-rings-oval-8066",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84491"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-6bd9927098c3.png"
+      "/media/84491-3da404959daa.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8066.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84481",
+    "slug": "84484-color-rings-oval-color-rings-oval-8060",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84484"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84484-37b233e0ce1a.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8060.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84481-color-rings-oval-color-rings-oval-8057",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84481"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-1fd7bb6500de.png"
+      "/media/84481-6b71f145816b.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8057.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84418",
+    "slug": "84459-color-rings-oval-color-rings-oval-8039",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84459"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84459-4d227b13a4f7.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8039.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84418-color-rings-oval-color-rings-oval-8006",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84418"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-47f10003bd2c.png"
+      "/media/84418-5ddc8b60a953.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8006.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84343",
+    "slug": "84410-color-rings-oval-color-rings-oval-8000",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84410"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84410-136616bce87f.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-8000.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84343-color-rings-oval-color-rings-oval-7732",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84343"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-3fa1569e0285.png"
+      "/media/84343-afa049f19e29.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-7732.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84234",
+    "slug": "84232-color-rings-oval-color-rings-oval-7624",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84232"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84232-6c5ca02043eb.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-7624.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84234-color-rings-oval-color-rings-oval-7626",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84234"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-591bfdcfeae7.png"
+      "/media/84234-cda43bb24c5f.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-7626.html?customerid="
   },
   {
     "name": "COLOR RINGS OVAL",
-    "slug": "84231",
+    "slug": "84235-color-rings-oval-color-rings-oval-7627",
     "category": "Color Rings",
-    "subcategory": null,
+    "subcategory": "Oval Color Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84235"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84235-1419f6182148.webp"
+    ],
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-7627.html?customerid="
+  },
+  {
+    "name": "COLOR RINGS OVAL",
+    "slug": "84231-color-rings-oval-color-rings-oval-7623",
+    "category": "Color Rings",
+    "subcategory": "Oval Color Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "84231"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-1d8fdf12aa69.png"
+      "/media/84231-e349b264d911.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Color Rings Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/color-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_color-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/color-rings/oval/color-rings-oval-7623.html?customerid="
   },
   {
-    "name": "HALO RD CENTER SPLIT SHANK",
-    "slug": "51292-e",
+    "name": "TWISTED SHANK ENGAGEMENT RING",
+    "slug": "51313-e-twisted-shank-engagement-ring-twisted-shank-engagement-ring-29429",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "51313-E"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/51313-e-2-95e20f9c432a.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/twisted-shank-engagement-ring-29429.html?customerid="
+  },
+  {
+    "name": "TWISTED SHANK ENGAGEMENT RING",
+    "slug": "51313-e-twisted-shank-engagement-ring-twisted-shank-engagement-ring",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "51313-E"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/51313-e-2-95e20f9c432a.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/twisted-shank-engagement-ring.html?customerid="
+  },
+  {
+    "name": "HALO RD CENTER SPLIT SHANK",
+    "slug": "51292-e-halo-rd-center-split-shank-halo-rd-center-split-shank",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "51292-E"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-0918b3a1ba6d.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/51292-e-dcbd8a9ae20d.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/halo-rd-center-split-shank.html?customerid="
   },
   {
-    "name": "ENGAGEMENT RING",
-    "slug": "85328",
+    "name": "ENGAGEMENT RINGS HALO",
+    "slug": "51164-e-engagement-rings-halo-engagement-rings-halo-29108",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "51164-E"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/51164-e-a6ce66cf9f28.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-rings-halo-29108.html?customerid="
+  },
+  {
+    "name": "ENGAGEMENT RING",
+    "slug": "85328-engagement-ring-engagement-ring-28761",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85328"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-6f77a15a7a73.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85328-05392f2f4693.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-28761.html?customerid="
   },
   {
-    "name": "ENGAGEMENT RING",
-    "slug": "85320-1",
+    "name": "ENGAGEMENT RING ROUND CENTER",
+    "slug": "85341-engagement-ring-round-center-engagement-ring-round-center-28139",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85341"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85341-2-83bab8a9ca34.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-round-center-28139.html?customerid="
+  },
+  {
+    "name": "ENGAGEMENT RING",
+    "slug": "85320-1-engagement-ring-engagement-ring-28024",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85320-1"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-6fc76e643f98.png"
+      "/media/85320-2bd9877d0b6f.webp"
     ],
-    "priceNote": null,
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-28024.html?customerid="
   },
   {
-    "name": "ENGAGEMENT RING CUSHION CENTER",
-    "slug": "85276",
+    "name": "ENGAGEMENT RINGS HALO",
+    "slug": "85289-engagement-rings-halo-engagement-rings-halo-27960",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85289"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/51164-e-a6ce66cf9f28.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-rings-halo-27960.html?customerid="
+  },
+  {
+    "name": "ENGAGEMENT RING CUSHION CENTER",
+    "slug": "85276-engagement-ring-cushion-center-engagement-ring-cushion-center",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85276"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-4789859c1bc8.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85276-a0b3578abf7a.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-cushion-center.html?customerid="
   },
   {
-    "name": "FLOWER FASHION RING",
-    "slug": "85270",
+    "name": "ROUND FASHION RING",
+    "slug": "85274-round-fashion-ring-round-fashion-ring",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85274"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/85274-dbe12392c713.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/round-fashion-ring.html?customerid="
+  },
+  {
+    "name": "FLOWER FASHION RING",
+    "slug": "85270-flower-fashion-ring-flower-fashion-ring",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85270"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-b89cb318643b.png"
+      "/media/85270-17eac6a81b01.webp"
     ],
-    "priceNote": null,
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/flower-fashion-ring.html?customerid="
   },
   {
-    "name": "HALO ENGAGEMENT RING",
-    "slug": "85265",
+    "name": "ENGAGEMENT RING",
+    "slug": "85266-engagement-ring-engagement-ring-27919",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85266"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85266-6e8890207212.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-27919.html?customerid="
+  },
+  {
+    "name": "HALO ENGAGEMENT RING",
+    "slug": "85265-halo-engagement-ring-halo-engagement-ring-27914",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85265"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-07817b35ee28.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85265-cba37d6e1525.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/halo-engagement-ring-27914.html?customerid="
   },
   {
     "name": "ENGAGEMENT RING",
-    "slug": "85253",
+    "slug": "85263-engagement-ring-engagement-ring-27903",
     "category": "Engagement Rings",
-    "subcategory": null,
+    "subcategory": "Round Halo Engagement Rings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85263"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85263-258064929c7d.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
+    "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-27903.html?customerid="
+  },
+  {
+    "name": "ENGAGEMENT RING",
+    "slug": "85253-engagement-ring-engagement-ring-27868",
+    "category": "Engagement Rings",
+    "subcategory": "Round Halo Engagement Rings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85253"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-5df9617df7e7.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85253-9a40c670bd16.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/design",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_design.md",
     "productPageUrl": "https://iframes.ovnight.com/engagement-rings/halo/round/engagement-ring-27868.html?customerid="
   },
   {
-    "name": "RD HOOPS",
-    "slug": "41124",
+    "name": "LAB GROWN DIAMOND 1.75 INCH 2 PRONG ROUND HOOP",
+    "slug": "lger051-lab-grown-diamond-1-75-inch-2-prong-round-hoop-lab-grown-diamond-1-75-inch-2-prong-round-hoop-30070",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop",
+      "image-unavailable-in-source"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER051"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/thumbnail-f3f4551bd205.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-75-inch-2-prong-round-hoop-30070.html?customerid="
+  },
+  {
+    "name": "ROUND HOOPS",
+    "slug": "41125-round-hoops-round-hoops",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "hoop",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "41125"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/41125-0-af660a60ef58.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/round-hoops.html?customerid="
+  },
+  {
+    "name": "RD HOOPS",
+    "slug": "41124-rd-hoops-rd-hoops",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "hoop",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "41124"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-548e607e2f3b.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/41124-ddc9d2dc8687.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/rd-hoops.html?customerid="
   },
   {
     "name": "FASHION EARRINGS",
-    "slug": "41121",
+    "slug": "41122-fashion-earrings-fashion-earrings-29015",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "41122"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/41122-7309d7f36ea1.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/fashion-earrings-29015.html?customerid="
+  },
+  {
+    "name": "FASHION EARRINGS",
+    "slug": "41121-fashion-earrings-fashion-earrings-28751",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "41121"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-4d48fffbfcb8.png"
+      "/media/41121-e6aa31810ef7.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/fashion-earrings-28751.html?customerid="
   },
   {
-    "name": "LAB GROWN DIAMOND EARRINGS",
-    "slug": "lger024",
+    "name": "LAB GROWN DIAMOND 1 ROW HOOP",
+    "slug": "lger025-lab-grown-diamond-1-row-hoop-lab-grown-diamond-1-row-hoop",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER025"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lger025-7837e3eed21a.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-row-hoop.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND EARRINGS",
+    "slug": "lger024-lab-grown-diamond-earrings-lab-grown-diamond-earrings-28730",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGER024"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-b40818003173.png"
+      "/media/lger024-319047ac5635.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-earrings-28730.html?customerid="
   },
   {
-    "name": "LAB GROWN DIAMOND 1.75 INCH 2 PRONG ROUND HOOP",
-    "slug": "lger028-09-44mm",
+    "name": "LAB GROWN DIAMOND EARRINGS",
+    "slug": "lger020-2-25-lab-grown-diamond-earrings-lab-grown-diamond-earrings-28729",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER020-2.25"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lger020-5433e6a2545b.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-earrings-28729.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 1.75 INCH 2 PRONG ROUND HOOP",
+    "slug": "lger028-09-44mm-lab-grown-diamond-1-75-inch-2-prong-round-hoop-lab-grown-diamond-1-75-inch-2-prong-round-hoop",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGER028-09-44MM"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-8b62211ce241.png"
+      "/media/lger028-09-44mm-ad7c18b69430.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-75-inch-2-prong-round-hoop.html?customerid="
   },
   {
-    "name": "LAB GROWN DIAMOND 1 INCH 2 PRONG ROUND HOOP",
-    "slug": "lger028-09-25mm",
+    "name": "LAB GROWN DIAMOND 1.4 INCH 2 PRONG ROUND HOOP",
+    "slug": "lger028-09-34mm-lab-grown-diamond-1-4-inch-2-prong-round-hoop-lab-grown-diamond-1-4-inch-2-prong-round-hoop",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER028-09-34MM"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lger028-09-34mm-cebcd26f48ce.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-4-inch-2-prong-round-hoop.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 1 INCH 2 PRONG ROUND HOOP",
+    "slug": "lger028-09-25mm-lab-grown-diamond-1-inch-2-prong-round-hoop-lab-grown-diamond-1-inch-2-prong-round-hoop",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGER028-09-25MM"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-888c41e7cf1b.png"
+      "/media/lger028-09-25mm-301d5fdd324c.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-inch-2-prong-round-hoop.html?customerid="
   },
   {
-    "name": "LAB GROWN DIAMOND 1.6 INCH 4 PRONG ROUND HOOP",
-    "slug": "lger026-05-41mm",
+    "name": "LAB GROWN DIAMOND 1.2 INCH 4 PRONG ROUND HOOP",
+    "slug": "lger027-20-30mm-lab-grown-diamond-1-2-inch-4-prong-round-hoop-lab-grown-diamond-1-2-inch-4-prong-round-hoop",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER027-20-30MM"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lger027-20-30mm-f8e46af14859.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-2-inch-4-prong-round-hoop.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND 1.6 INCH 4 PRONG ROUND HOOP",
+    "slug": "lger026-05-41mm-lab-grown-diamond-1-6-inch-4-prong-round-hoop-lab-grown-diamond-1-6-inch-4-prong-round-hoop",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGER026-05-41MM"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-e0d0bf09eb90.png"
+      "/media/lger026-05-41mm-6828cd445394.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-6-inch-4-prong-round-hoop.html?customerid="
   },
   {
-    "name": "LAB GROWN DIAMOND .75 INCH 4 PRONG ROUND HOOP",
-    "slug": "lger026-03-20mm",
+    "name": "LAB GROWN DIAMOND 1.1 INCH 4 PRONG ROUND HOOP",
+    "slug": "lger026-04-28mm-lab-grown-diamond-1-1-inch-4-prong-round-hoop-lab-grown-diamond-1-1-inch-4-prong-round-hoop",
     "category": "Earrings",
-    "subcategory": null,
+    "subcategory": "Hoop Earrings",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "hoop"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "LGER026-04-28MM"
+    },
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "variants": [],
+    "imagePaths": [
+      "/media/lger026-04-28mm-e115dd4c4a5f.webp"
+    ],
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
+    "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-1-1-inch-4-prong-round-hoop.html?customerid="
+  },
+  {
+    "name": "LAB GROWN DIAMOND .75 INCH 4 PRONG ROUND HOOP",
+    "slug": "lger026-03-20mm-lab-grown-diamond-75-inch-4-prong-round-hoop-lab-grown-diamond-75-inch-4-prong-round-hoop",
+    "category": "Earrings",
+    "subcategory": "Hoop Earrings",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "lab-grown-diamond",
+      "diamond",
+      "halo",
+      "hoop"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "LGER026-03-20MM"
     },
-    "materials": [],
+    "materials": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Lab Grown Diamond",
+      "Diamond"
+    ],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-bb89c42aa502.png"
+      "/media/lger026-03-20mm-6600ab45df63.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/earings",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_earings.md",
     "productPageUrl": "https://iframes.ovnight.com/earrings/lab-grown-diamond-75-inch-4-prong-round-hoop.html?customerid="
   },
   {
-    "name": "PENDANT",
-    "slug": "32430",
+    "name": "FASHION PENDANT",
+    "slug": "32614-fashion-pendant-fashion-pendant",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32614"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/32614-93bc85c2de4f.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/fashion-pendant.html?customerid="
+  },
+  {
+    "name": "DOUBLE CUSHION HALO ROUND CENTER PENDANT",
+    "slug": "32487-double-cushion-halo-round-center-pendant-double-cushion-halo-round-center-pendant",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32487"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32487-1f8af65d3b4b.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/double-cushion-halo-round-center-pendant.html?customerid="
+  },
+  {
+    "name": "PENDANT",
+    "slug": "32430-pendant-pendant",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32430"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-e4fc069ce4c9.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/32430-e8cd46d4f26a.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendant.html?customerid="
   },
   {
     "name": "ROUND HALO PENDANT",
-    "slug": "32483",
+    "slug": "32563-round-halo-pendant-round-halo-pendant-23034",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32563"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32563-02d7e2594086.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/round-halo-pendant-23034.html?customerid="
+  },
+  {
+    "name": "ROUND HALO PENDANT",
+    "slug": "32483-round-halo-pendant-round-halo-pendant",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32483"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-c859e196c5be.png"
+      "/media/32483-96775f7b4108.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/round-halo-pendant.html?customerid="
   },
   {
-    "name": "CUSHION HALO PENDANT",
-    "slug": "32397-1-10",
+    "name": "HALO PENDANT",
+    "slug": "32398-7-halo-pendant-halo-pendant",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32398-7"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/32398-37b4ab395e42.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/halo-pendant.html?customerid="
+  },
+  {
+    "name": "CUSHION HALO PENDANT",
+    "slug": "32397-1-10-cushion-halo-pendant-cushion-halo-pendant",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32397-1/10"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-a6bfa985b6fa.png"
+      "/media/32397-b559a13f499f.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/cushion-halo-pendant.html?customerid="
   },
   {
-    "name": "CLUSTER - SPLIT PRONGS",
-    "slug": "32387",
+    "name": "HALO PENDANT",
+    "slug": "32486-halo-pendant-halo-pendant-22290",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32486"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32486-a2d2b644b57b.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/halo-pendant-22290.html?customerid="
+  },
+  {
+    "name": "CLUSTER - SPLIT PRONGS",
+    "slug": "32387-cluster-split-prongs-cluster-split-prongs",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32387"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-33a47d5a7b23.png"
+      "/media/32387-f7a6250ceae3.webp"
     ],
-    "priceNote": null,
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/cluster-split-prongs.html?customerid="
   },
   {
     "name": "PENDANTS HALO",
-    "slug": "32438",
+    "slug": "32439-pendants-halo-pendants-halo-15414",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32439"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32439-95ce7d0122b5.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-15414.html?customerid="
+  },
+  {
+    "name": "PENDANTS HALO",
+    "slug": "32438-pendants-halo-pendants-halo-15410",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32438"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-e414ab6decde.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/32438-42d8b53bc6ef.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-15410.html?customerid="
   },
   {
     "name": "PENDANTS HALO",
-    "slug": "32365",
+    "slug": "32366-pendants-halo-pendants-halo-2116",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32366"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32366-2d2c4e4fe4ba.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-2116.html?customerid="
+  },
+  {
+    "name": "PENDANTS HALO",
+    "slug": "32365-pendants-halo-pendants-halo-2113",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32365"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-008ee9bedbe8.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/32365-0-9a98be38975f.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-2113.html?customerid="
   },
   {
     "name": "PENDANTS HALO",
-    "slug": "32345",
+    "slug": "32346-pendants-halo-pendants-halo-2104",
     "category": "Pendants",
-    "subcategory": null,
+    "subcategory": "Round Halo Pendants",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "32346"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/32346-a6e45613b0fa.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
+    "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-2104.html?customerid="
+  },
+  {
+    "name": "PENDANTS HALO",
+    "slug": "32345-pendants-halo-pendants-halo-2100",
+    "category": "Pendants",
+    "subcategory": "Round Halo Pendants",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "halo",
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "32345"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-db5969f874d5.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/32345-99954f4290ab.webp"
+    ],
+    "priceNote": "Pendants Bayside NY \u2014 inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/pendants",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_pendants.md",
     "productPageUrl": "https://iframes.ovnight.com/pendants/halo/round/pendants-halo-2100.html?customerid="
   },
   {
-    "name": "5 STONE OV SHARED PR BAND",
-    "slug": "85354",
+    "name": "5 STONE SHARED PRONG BAND",
+    "slug": "85470-5-stone-shared-prong-band-5-stone-shared-prong-band",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85470"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85470-1ef986072c81.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-shared-prong-band.html?customerid="
+  },
+  {
+    "name": "5 STONE SHARED PR BAND",
+    "slug": "85454-5-stone-shared-pr-band-5-stone-shared-pr-band",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85454"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85454-82663f7f746a.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-shared-pr-band.html?customerid="
+  },
+  {
+    "name": "5 STONE OV SHARED PR BAND",
+    "slug": "85354-5-stone-ov-shared-pr-band-5-stone-ov-shared-pr-band",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85354"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-b1344c902ee5.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85354-e4183c13b274.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-ov-shared-pr-band.html?customerid="
   },
   {
-    "name": "5 STONE EC SHARED PR BAND",
-    "slug": "85347",
+    "name": "5 STONE PC SHARED PR BAND",
+    "slug": "85350-5-stone-pc-shared-pr-band-5-stone-pc-shared-pr-band",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "85350"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/85350-70617f4b9e31.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-pc-shared-pr-band.html?customerid="
+  },
+  {
+    "name": "5 STONE EC SHARED PR BAND",
+    "slug": "85347-5-stone-ec-shared-pr-band-5-stone-ec-shared-pr-band",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "85347"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-3545a2ca65ed.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/85347-7ef88ccb12c7.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-ec-shared-pr-band.html?customerid="
   },
   {
-    "name": "5 STONE STRAIGHT BAND",
-    "slug": "50633-w",
+    "name": "STRAIGHT DIAMOND WEDDING BAND",
+    "slug": "51098-w-straight-diamond-wedding-band-straight-diamond-wedding-band",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "diamond",
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "51098-W"
+    },
+    "materials": [
+      "Diamond"
+    ],
+    "gemstoneDetails": [
+      "Diamond"
+    ],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/51098-w-33bdafd85645.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/straight-diamond-wedding-band.html?customerid="
+  },
+  {
+    "name": "5 STONE STRAIGHT BAND",
+    "slug": "50633-w-5-stone-straight-band-5-stone-straight-band",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "50633-W"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-5266baa1564e.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/50633-w-4-124a897cf037.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/5-stone-straight-band.html?customerid="
   },
   {
     "name": "WEDDING BANDS PRONG SET",
-    "slug": "83709",
+    "slug": "84463-wedding-bands-prong-set-wedding-bands-prong-set-8042",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "84463"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [],
+    "imagePaths": [
+      "/media/84463-21f007f4e553.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-8042.html?customerid="
+  },
+  {
+    "name": "WEDDING BANDS PRONG SET",
+    "slug": "83709-wedding-bands-prong-set-wedding-bands-prong-set-7126",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "83709"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-226182e428f5.png"
+      "/media/83709-099c24485a15.webp"
     ],
-    "priceNote": null,
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-7126.html?customerid="
   },
   {
     "name": "WEDDING BANDS PRONG SET",
-    "slug": "83380",
+    "slug": "83687-wedding-bands-prong-set-wedding-bands-prong-set-7100",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "83687"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/83687-6efb7316c7f6.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-7100.html?customerid="
+  },
+  {
+    "name": "WEDDING BANDS PRONG SET",
+    "slug": "83380-wedding-bands-prong-set-wedding-bands-prong-set-6697",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "83380"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-5cba253bd86c.png"
+      "/media/83380-c562c8111ecd.webp"
     ],
-    "priceNote": null,
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-6697.html?customerid="
   },
   {
     "name": "WEDDING BANDS PRONG SET",
-    "slug": "83274",
+    "slug": "83352-wedding-bands-prong-set-wedding-bands-prong-set-6665",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
-    "badges": [],
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "83352"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/83352-277caee89192.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-6665.html?customerid="
+  },
+  {
+    "name": "WEDDING BANDS PRONG SET",
+    "slug": "83274-wedding-bands-prong-set-wedding-bands-prong-set-6564",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "83274"
     },
     "materials": [],
-    "variants": [],
-    "imagePaths": [
-      "/media/fallback-0f316a1f3466.png"
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
     ],
-    "priceNote": null,
+    "imagePaths": [
+      "/media/83274-ef31644c283e.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-6564.html?customerid="
   },
   {
     "name": "WEDDING BANDS PRONG SET",
-    "slug": "82801",
+    "slug": "82822-wedding-bands-prong-set-wedding-bands-prong-set-6108",
     "category": "Wedding Bands",
-    "subcategory": null,
+    "subcategory": "5 Stone Prong Set Wedding Bands",
     "price": null,
     "compareAtPrice": null,
-    "availability": "in_stock_or_unspecified",
+    "availability": "not_specified",
+    "badges": [
+      "available-in-series"
+    ],
+    "fullDescription": null,
+    "specifications": {
+      "styleNumber": "82822"
+    },
+    "materials": [],
+    "gemstoneDetails": [],
+    "variants": [
+      "Available in a Series"
+    ],
+    "imagePaths": [
+      "/media/82822-b3b0a2e251d7.webp"
+    ],
+    "priceNote": "inquire with store for pricing",
+    "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
+    "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
+    "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-6108.html?customerid="
+  },
+  {
+    "name": "WEDDING BANDS PRONG SET",
+    "slug": "82801-wedding-bands-prong-set-wedding-bands-prong-set-6075",
+    "category": "Wedding Bands",
+    "subcategory": "5 Stone Prong Set Wedding Bands",
+    "price": null,
+    "compareAtPrice": null,
+    "availability": "not_specified",
     "badges": [],
     "fullDescription": null,
     "specifications": {
       "styleNumber": "82801"
     },
     "materials": [],
+    "gemstoneDetails": [],
     "variants": [],
     "imagePaths": [
-      "/media/fallback-172dca89af7b.png"
+      "/media/82801-f06d64646a49.webp"
     ],
-    "priceNote": null,
+    "priceNote": "inquire with store for pricing",
     "sourcePageUrl": "https://www.bellfamilyjewelers.com/wedding-bands",
     "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md",
     "productPageUrl": "https://iframes.ovnight.com/wedding-bands/prong-set/5-stone/wedding-bands-prong-set-6075.html?customerid="

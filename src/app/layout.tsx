@@ -5,7 +5,7 @@ import AnnouncementBanner from '@/lib/components/announcement-banner'
 
 export const metadata = {
   title: 'Bell Family Jewelers | Bayside, NY',
-  description: 'Luxury jewelry collections, custom design, repairs, and engagement rings at Bell Family Jewelers in Bayside, NY.',
+  description: 'Bell Family Jewelers in Bayside, NY: engagement rings, wedding bands, fine jewelry, repair, appraisal, and custom design services.',
 }
 
 export default function RootLayout({
@@ -14,11 +14,11 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body className="min-h-screen flex flex-col bg-zinc-950 text-zinc-100">
+    <html lang="en" data-scroll-behavior="smooth">
+      <body className="min-h-screen flex flex-col bg-[#f6f1e8] text-[#191714]">
         <AnnouncementBanner />
         <Navbar />
-        <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 py-10 sm:py-14">
+        <main className="flex-1 w-full">
           {children}
         </main>
         <Footer />

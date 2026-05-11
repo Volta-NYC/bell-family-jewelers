@@ -1,49 +1,61 @@
 import Link from 'next/link'
-import { business } from '@/lib/data'
+import { business, featuredCollections } from '@/lib/data'
 
 export default function Footer() {
   return (
-    <footer className="border-t border-zinc-800 mt-20 bg-black text-zinc-300">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-4 text-sm">
+    <footer className="mt-20 bg-[#191714] text-[#d8cdbd]">
+      <div className="site-container grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
         <div>
-          <h3 className="text-zinc-100 uppercase tracking-[0.16em] text-xs mb-3">Bell Family Jewelers</h3>
-          <p>{business.address}</p>
-          <p className="mt-2">{business.phones[0]}</p>
-          <p>{business.emails[0]}</p>
+          <Link href="/" className="font-display text-3xl text-[#fbf5e8]">Bell Family Jewelers</Link>
+          <p className="mt-4 max-w-sm text-sm leading-7 text-[#b7aa9a]">{business.homepageCopy[1]}</p>
+          <div className="mt-6 space-y-1 text-sm">
+            <p>{business.address}</p>
+            <p>{business.phones[0]}</p>
+            <p>{business.emails[0]}</p>
+          </div>
         </div>
 
         <div>
-          <h3 className="text-zinc-100 uppercase tracking-[0.16em] text-xs mb-3">Hours</h3>
-          <ul className="space-y-1">
+          <h3 className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-[#c9a45f]">Hours</h3>
+          <ul className="space-y-2 text-sm">
             {Object.entries(business.hours).map(([day, hour]) => (
-              <li key={day}>
-                {day}: {hour}
+              <li key={day} className="flex justify-between gap-4 border-b border-white/10 pb-2">
+                <span>{day}</span>
+                <span className="text-right text-[#fbf5e8]">{hour}</span>
+              </li>
+            ))}
+          </ul>
+          <p className="mt-3 text-xs leading-5 text-[#8f8271]">Hours are shown from the contact page in the scraped source.</p>
+        </div>
+
+        <div>
+          <h3 className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-[#c9a45f]">Collections</h3>
+          <ul className="space-y-2 text-sm">
+            {featuredCollections.map((collection) => (
+              <li key={collection.slug}>
+                <Link href={`/collections/${collection.slug}`} className="hover:text-[#fbf5e8]">{collection.name}</Link>
               </li>
             ))}
           </ul>
         </div>
 
         <div>
-          <h3 className="text-zinc-100 uppercase tracking-[0.16em] text-xs mb-3">Explore</h3>
-          <ul className="space-y-1">
-            <li><Link href="/collections">Collections</Link></li>
-            <li><Link href="/shop">Shop</Link></li>
-            <li><Link href="/services">Services</Link></li>
-            <li><Link href="/designers">Designers</Link></li>
-          </ul>
-        </div>
-
-        <div>
-          <h3 className="text-zinc-100 uppercase tracking-[0.16em] text-xs mb-3">Social</h3>
-          <ul className="space-y-1">
-            <li><a href={business.social.facebook} target="_blank" rel="noreferrer">Facebook</a></li>
-            <li><a href={business.social.instagram} target="_blank" rel="noreferrer">Instagram</a></li>
+          <h3 className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-[#c9a45f]">Visit</h3>
+          <ul className="space-y-2 text-sm">
+            <li><Link href="/contact" className="hover:text-[#fbf5e8]">Contact & Appointments</Link></li>
+            <li><Link href="/services" className="hover:text-[#fbf5e8]">Jewelry Services</Link></li>
+            <li><Link href="/education" className="hover:text-[#fbf5e8]">Education</Link></li>
+            <li><a href={business.social.facebook} target="_blank" rel="noreferrer" className="hover:text-[#fbf5e8]">Facebook</a></li>
+            <li><a href={business.social.instagram} target="_blank" rel="noreferrer" className="hover:text-[#fbf5e8]">Instagram</a></li>
           </ul>
         </div>
       </div>
 
-      <div className="border-t border-zinc-800 py-4 px-4 sm:px-6 text-xs text-zinc-500 max-w-7xl mx-auto">
-        © {new Date().getFullYear()} Bell Family Jewelers
+      <div className="border-t border-white/10">
+        <div className="site-container flex flex-col gap-2 py-5 text-xs text-[#8f8271] sm:flex-row sm:items-center sm:justify-between">
+          <p>© {new Date().getFullYear()} Bell Family Jewelers</p>
+          <p>Local data and media generated from scraped source markdown.</p>
+        </div>
       </div>
     </footer>
   )

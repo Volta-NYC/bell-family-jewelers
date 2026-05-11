@@ -1,26 +1,50 @@
+import AppointmentForm from '@/lib/components/appointment-form'
 import { business } from '@/lib/data'
 
 export default function ContactPage() {
   return (
-    <div className="grid gap-8 lg:grid-cols-2">
-      <section className="space-y-5">
-        <h1 className="text-4xl font-semibold">Contact & Appointments</h1>
-        <p className="text-zinc-300">Visit us in Bayside, call, or send us an appointment request.</p>
-        <div className="rounded-2xl border border-zinc-800 bg-zinc-950 p-6 space-y-2 text-zinc-300">
-          <p><span className="text-zinc-100">Address:</span> {business.address}</p>
-          <p><span className="text-zinc-100">Phone:</span> {business.phones[0]}</p>
-          <p><span className="text-zinc-100">Email:</span> {business.emails[0]}</p>
+    <div className="site-container grid gap-10 py-12 sm:py-16 lg:grid-cols-[0.9fr_1.1fr]">
+      <section>
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8b7353]">Contact</p>
+        <h1 className="mt-3 font-display text-5xl leading-tight text-[#191714] sm:text-6xl">Visit Bell Family Jewelers</h1>
+        <p className="mt-5 max-w-2xl text-lg leading-8 text-[#5c5145]">
+          Visit us in Bayside, call the store, or request an appointment.
+        </p>
+
+        <div className="mt-8 grid gap-4">
+          <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-5">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Address</p>
+            <p className="mt-2 text-lg text-[#191714]">{business.address}</p>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2">
+            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-5">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Phone</p>
+              <a href={`tel:${business.phones[0]}`} className="mt-2 block text-lg text-[#191714]">{business.phones[0]}</a>
+            </div>
+            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-5">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Email</p>
+              <a href={`mailto:${business.emails[0]}`} className="mt-2 block break-words text-lg text-[#191714]">{business.emails[0]}</a>
+            </div>
+          </div>
+        </div>
+
+        <div className="mt-8 border border-[#dfd4c4] bg-[#191714] p-5 text-[#fbf5e8]">
+          <h2 className="font-display text-3xl">Opening hours</h2>
+          <dl className="mt-5 space-y-3 text-sm">
+            {Object.entries(business.hours).map(([day, hour]) => (
+              <div key={day} className="flex justify-between gap-4 border-b border-white/10 pb-3">
+                <dt className="text-[#b7aa9a]">{day}</dt>
+                <dd>{hour}</dd>
+              </div>
+            ))}
+          </dl>
+          <p className="mt-4 text-xs leading-5 text-[#8f8271]">
+            The home and contact pages list slightly different hours in the scrape; the contact page hours are shown here.
+          </p>
         </div>
       </section>
 
-      <form className="rounded-2xl border border-zinc-800 bg-zinc-950 p-6 space-y-4" aria-label="Appointment request form">
-        <h2 className="text-xl">Request an Appointment</h2>
-        <input className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3" placeholder="Full name" />
-        <input className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3" placeholder="Email" type="email" />
-        <input className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3" placeholder="Phone" />
-        <textarea className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3 min-h-28" placeholder="How can we help?" />
-        <button type="button" className="px-6 py-3 rounded-full bg-amber-300 text-zinc-900 text-sm font-medium">Send Request</button>
-      </form>
+      <AppointmentForm />
     </div>
   )
 }

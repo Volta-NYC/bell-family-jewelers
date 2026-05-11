@@ -1,16 +1,17 @@
 import { products } from '@/lib/data'
-import ProductCard from '@/lib/components/product-card'
+import ShopControls from '@/lib/components/shop-controls'
 
 export default function ProductsPage() {
   return (
-    <div className="space-y-6">
-      <h1 className="text-4xl font-semibold">All Products</h1>
-      <p className="text-zinc-300">Browse all jewelry products from Bell Family Jewelers.</p>
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        {products.map((product) => (
-          <ProductCard key={`${product.slug}-${product.sourceMarkdownFile}`} product={product} />
-        ))}
+    <div className="site-container py-12 sm:py-16">
+      <div className="mb-10 max-w-3xl">
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8b7353]">Products</p>
+        <h1 className="mt-3 font-display text-5xl leading-tight text-[#191714] sm:text-6xl">All products</h1>
+        <p className="mt-5 text-lg leading-8 text-[#5c5145]">
+          All product entries are generated from the local markdown source and rendered with local media.
+        </p>
       </div>
+      <ShopControls products={products} />
     </div>
   )
 }

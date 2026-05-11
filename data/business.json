@@ -5,7 +5,6 @@
     "(718) 279-3035"
   ],
   "emails": [
-    "Bellfamilyjewelers@yahoo.com",
     "bellfamilyjewelers@yahoo.com"
   ],
   "hours": {
@@ -16,60 +15,140 @@
     "Saturday": "10:00 AM - 5:30 PM",
     "Sunday & Monday": "CLOSED"
   },
+  "hoursSources": [
+    {
+      "source": "home page",
+      "hours": {
+        "Tuesday": "10:30 AM - 6:00 PM",
+        "Wednesday": "10:30 AM - 6:00 PM",
+        "Thursday": "10:30 AM - 6:00 PM",
+        "Friday": "10:30 AM - 6:00 PM",
+        "Saturday": "10:30 AM - 5:30 PM",
+        "Sunday & Monday": "CLOSED"
+      }
+    },
+    {
+      "source": "contact page",
+      "hours": {
+        "Tuesday": "10:00 AM - 6:00 PM",
+        "Wednesday": "10:00 AM - 6:00 PM",
+        "Thursday": "10:00 AM - 7:00 PM",
+        "Friday": "10:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 5:30 PM",
+        "Sunday & Monday": "CLOSED"
+      }
+    }
+  ],
   "social": {
     "facebook": "http://www.facebook.com/bellfamilyjewelers",
     "instagram": "http://www.instagram.com/bellfamilyjewelers"
   },
   "promotions": [
-    "30 - 50% OFF",
     "Bracelets Bayside NY\u2014 inquire with store for pricing",
     "30-60% off entire catalog - inquire with store for pricing",
     "Color Rings Bayside NY \u2014 inquire with store for pricing",
-    "50% OFF",
     "inquire with store for pricing",
     "Earinmgs Bayside NY \u2014 inquire with store for pricing",
     "Pendants Bayside NY \u2014 inquire with store for pricing",
-    "Reason \\#3: Our Bayside lab grown diamonds cost 50% less then natural diamonds.",
-    "Lab created diamonds are made of 100% pure crystallized carbon.",
-    "Jewelry customers come to our store shopping for diamonds all the time. They love the idea of saving 50% on the diamond that they want.",
     "Silver Jewelery Bayside NY\u2014inquire with store for pricing"
   ],
   "homepageCopy": [
-    "Engagement rings are the ultimate expression of love, and Bell Family Jewelers helps you design the engagement ring of your dreams.",
-    "We help transform old or unwanted jewelry into treasures that reflect your true style."
+    "Engagement rings are the ultimate expression of love, at Bell Family Jewelers of Bayside NY we make it easy for you to design the engagement ring of your dreams.",
+    "We'll help you transform an old or unwanted piece into a treasure that reflects your true style."
+  ],
+  "about": [
+    "Harold Rutgers was born and raised in Flushing, New York. His father Victor was a jewelry designer who opened up a jewelry store in Great Neck in 1962. Rutgers, a certified gemologist, joined the family business and opened up Bell Family Jewelers in Bayside in 1987.",
+    "Rutgers is associated with Jewelers for Children. It is a nonprofit organization that donates to the Make-A-Wish Foundation, St. Jude's Children's Research Hospital and Elizabeth Glaser Pediatric AIDS Foundation. Rutgers has a box and a sign in his store that states that he won't charge customers for jewelry cleaning services. Instead, they can donate a sum of their choice to the charity by dropping it in the box. Rutgers says that after he started this initiative 10 years ago, he found that people come to his store for the services because they also know they get the opportunity to give back. This year, he has already collected more than $1,500 and hopes to surpass that and collect $2,000 next year.",
+    "Rutgers says his biggest inspiration is his father, \" He gave me an engraved ID bracelet when I went to high school\" that said \" The secret to success is the consistency to purpose, that's the Rule I live by\"."
   ],
   "services": [
-    "APPRAISALS",
-    "GOLD BUYING",
-    "RESTORATION & REPAIR",
-    "FULL SERVICE CLEANING",
-    "GEM & JEWELRY SETTING",
-    "CUSTOM\u00a0JEWELRY",
-    "DESIGN",
-    "PEARL RESTRINGING",
-    "WATCH REPAIR\u00a0&",
-    "RESTORATION"
+    {
+      "name": "Appraisals",
+      "slug": "appraisals",
+      "description": "Find out the value of your jewelry."
+    },
+    {
+      "name": "Gold Buying",
+      "slug": "gold-buying",
+      "description": "We Purchase Gold and have Trade-In Services at our Store Location."
+    },
+    {
+      "name": "Restoration & Repair",
+      "slug": "restoration-and-repair",
+      "description": "We offer extensive restoration services from the simplest to the most elaborate to ensure your treasured piece of jewelry is wearable on every level."
+    },
+    {
+      "name": "Full Service Cleaning",
+      "slug": "full-service-cleaning",
+      "description": "Jewelry with diamonds should be checked every 6 months for security and stability."
+    },
+    {
+      "name": "Gem & Jewelry Setting",
+      "slug": "gem-and-jewelry-setting",
+      "description": "We'll help you transform an old or unwanted piece into a treasure that reflects your true style."
+    },
+    {
+      "name": "Custom Jewelry Design",
+      "slug": "custom-jewelry-design",
+      "description": "We create something custom and unique just for you."
+    },
+    {
+      "name": "Pearl Restringing",
+      "slug": "pearl-restringing",
+      "description": "Pearl strands are often thin, therefore they weaken, stretch or get discolored over time. Thus it is essential to restring your precious pearls every 2-3 years."
+    },
+    {
+      "name": "Watch Repair & Restoration",
+      "slug": "watch-repair-and-restoration",
+      "description": "We offer extensive watch restoration as well as changing watch batteries and watch band shortening."
+    }
+  ],
+  "policies": [
+    "Only 3 items per request",
+    "Unavailable for sizing, engraving, and other customization services",
+    "Commodity bands in 14K gold only",
+    "$25.00 fee per request"
   ],
   "designers": [
     {
       "name": "Endless Designs",
-      "slug": "endless-designs"
+      "slug": "endless-designs",
+      "sourcePageUrl": "https://www.bellfamilyjewelers.com/endless-designs",
+      "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_endless-designs.md",
+      "description": null,
+      "imagePaths": []
     },
     {
       "name": "Phillip Gavriel",
-      "slug": "phillip-gavriel"
+      "slug": "phillip-gavriel",
+      "sourcePageUrl": "https://www.bellfamilyjewelers.com/phillip-gavriel",
+      "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_phillip-gavriel.md",
+      "description": null,
+      "imagePaths": []
     },
     {
       "name": "Royal Jewelry",
-      "slug": "royal-jewelry"
+      "slug": "royal-jewelry",
+      "sourcePageUrl": "https://www.bellfamilyjewelers.com/royal-jewelry",
+      "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_royal-jewelry.md",
+      "description": null,
+      "imagePaths": []
     },
     {
       "name": "Royal Chain",
-      "slug": "royal-chain"
+      "slug": "royal-chain",
+      "sourcePageUrl": "https://www.bellfamilyjewelers.com/copy-of-royal-jewelry",
+      "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_copy-of-royal-jewelry.md",
+      "description": null,
+      "imagePaths": []
     },
     {
       "name": "Valina",
-      "slug": "valina"
+      "slug": "valina",
+      "sourcePageUrl": "https://www.bellfamilyjewelers.com/valina",
+      "sourceMarkdownFile": "raw messy data/www.bellfamilyjewelers.com_valina.md",
+      "description": null,
+      "imagePaths": []
     }
   ]
 }

@@ -1,492 +1,192 @@
 [
   {
-    "name": "Bell Family Jewelers",
-    "slug": "bell-family-jewelers",
-    "description": "Bell Family Jewelers collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "About",
-    "slug": "about",
-    "description": "About collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/about"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Blog",
-    "slug": "blog",
-    "description": "Blog collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/blog"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Diamonds",
-    "slug": "diamonds",
-    "description": "Diamonds collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/blog/categories/diamonds",
-      "https://www.bellfamilyjewelers.com/diamonds"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Bracelets",
-    "slug": "bracelets",
-    "description": "Bracelets collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/bracelets"
-    ],
-    "imageUrls": [],
-    "imagePaths": [
-      "/media/fallback-8a819a803a05.png",
-      "/media/fallback-1a6e0408f83f.png",
-      "/media/fallback-1948dd0715f4.png",
-      "/media/fallback-d8b78ccdeb82.png",
-      "/media/fallback-05cf728cfc6e.png",
-      "/media/fallback-1e89405617e0.png"
-    ],
-    "productCount": 6
-  },
-  {
-    "name": "Bridal Jewelry",
-    "slug": "bridal-jewelry",
-    "description": "Bridal Jewelry collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/bridal-jewelry"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Catalog",
-    "slug": "catalog",
-    "description": "Catalog collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/catalog"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Color Rings",
-    "slug": "color-rings",
-    "description": "Color Rings collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/color-bands"
-    ],
-    "imageUrls": [],
-    "imagePaths": [
-      "/media/fallback-c514dd56c803.png",
-      "/media/fallback-6bd9927098c3.png",
-      "/media/fallback-1fd7bb6500de.png",
-      "/media/fallback-47f10003bd2c.png",
-      "/media/fallback-3fa1569e0285.png",
-      "/media/fallback-591bfdcfeae7.png",
-      "/media/fallback-1d8fdf12aa69.png"
-    ],
-    "productCount": 7
-  },
-  {
-    "name": "Contact Us",
-    "slug": "contact-us",
-    "description": "Contact Us collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/contact-us"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Women",
-    "slug": "women",
-    "description": "Women collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/copy-of-jewelry-gallery"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Royal Chain",
-    "slug": "royal-chain",
-    "description": "Royal Chain collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/copy-of-royal-jewelry"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
     "name": "Engagement Rings",
     "slug": "engagement-rings",
-    "description": "Engagement Rings collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/design",
-      "https://www.bellfamilyjewelers.com/endless-designs"
+    "type": "product-category",
+    "description": "Round halo engagement rings extracted from the source catalog.",
+    "subcategories": [
+      "Round Halo Engagement Rings"
     ],
-    "imageUrls": [],
+    "sourcePages": [
+      "https://www.bellfamilyjewelers.com/design"
+    ],
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_design.md"
+    ],
     "imagePaths": [
-      "/media/fallback-0918b3a1ba6d.png",
-      "/media/fallback-6f77a15a7a73.png",
-      "/media/fallback-6fc76e643f98.png",
-      "/media/fallback-4789859c1bc8.png",
-      "/media/fallback-b89cb318643b.png",
-      "/media/fallback-07817b35ee28.png",
-      "/media/fallback-5df9617df7e7.png"
+      "/media/51313-e-2-95e20f9c432a.webp",
+      "/media/51292-e-dcbd8a9ae20d.webp",
+      "/media/51164-e-a6ce66cf9f28.webp",
+      "/media/85328-05392f2f4693.webp",
+      "/media/85341-2-83bab8a9ca34.webp",
+      "/media/85320-2bd9877d0b6f.webp",
+      "/media/85276-a0b3578abf7a.webp",
+      "/media/85274-dbe12392c713.webp",
+      "/media/85270-17eac6a81b01.webp",
+      "/media/85266-6e8890207212.webp",
+      "/media/85265-cba37d6e1525.webp",
+      "/media/85263-258064929c7d.webp",
+      "/media/85253-9a40c670bd16.webp"
     ],
-    "productCount": 7
-  },
-  {
-    "name": "Diamond Carat Weight",
-    "slug": "diamond-carat-weight",
-    "description": "Diamond Carat Weight collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/diamond-carat-weight"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Diamond Clarity",
-    "slug": "diamond-clarity",
-    "description": "Diamond Clarity collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/diamond-clarity"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Diamond Color",
-    "slug": "diamond-color",
-    "description": "Diamond Color collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/diamond-color"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Diamond Cut",
-    "slug": "diamond-cut",
-    "description": "Diamond Cut collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/diamond-cut"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Earrings",
-    "slug": "earrings",
-    "description": "Earrings collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/earings"
-    ],
-    "imageUrls": [],
-    "imagePaths": [
-      "/media/fallback-548e607e2f3b.png",
-      "/media/fallback-4d48fffbfcb8.png",
-      "/media/fallback-b40818003173.png",
-      "/media/fallback-8b62211ce241.png",
-      "/media/fallback-888c41e7cf1b.png",
-      "/media/fallback-e0d0bf09eb90.png",
-      "/media/fallback-bb89c42aa502.png"
-    ],
-    "productCount": 7
-  },
-  {
-    "name": "Education",
-    "slug": "education",
-    "description": "Education collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/education"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Gemstones",
-    "slug": "gemstones",
-    "description": "Gemstones collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/gemstones"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Gold",
-    "slug": "gold",
-    "description": "Gold collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/gold"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Brands",
-    "slug": "brands",
-    "description": "Brands collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/jewelery-gallery"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Mens",
-    "slug": "mens",
-    "description": "Mens collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/mens"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Necklace Resources",
-    "slug": "necklace-resources",
-    "description": "Necklace Resources collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/necklace-resources"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Undefined",
-    "slug": "undefined",
-    "description": "Undefined collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/pages-sitemap.xml",
-      "https://www.bellfamilyjewelers.com/sitemap.xml"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Pearls",
-    "slug": "pearls",
-    "description": "Pearls collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/pearls"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Pendants",
-    "slug": "pendants",
-    "description": "Pendants collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/pendants"
-    ],
-    "imageUrls": [],
-    "imagePaths": [
-      "/media/fallback-e4fc069ce4c9.png",
-      "/media/fallback-c859e196c5be.png",
-      "/media/fallback-a6bfa985b6fa.png",
-      "/media/fallback-33a47d5a7b23.png",
-      "/media/fallback-e414ab6decde.png",
-      "/media/fallback-008ee9bedbe8.png",
-      "/media/fallback-db5969f874d5.png"
-    ],
-    "productCount": 7
-  },
-  {
-    "name": "Phillip Gavriel",
-    "slug": "phillip-gavriel",
-    "description": "Phillip Gavriel collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/phillip-gavriel"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Platinum",
-    "slug": "platinum",
-    "description": "Platinum collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/platinum"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Lab Grown Diamonds Bayside Queens Ny",
-    "slug": "lab-grown-diamonds-bayside-queens-ny",
-    "description": "Lab Grown Diamonds Bayside Queens Ny collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/post/lab-grown-diamonds-bayside-queens-ny"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Lab Grown Diamonds Flushing Queens Ny",
-    "slug": "lab-grown-diamonds-flushing-queens-ny",
-    "description": "Lab Grown Diamonds Flushing Queens Ny collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/post/lab-grown-diamonds-flushing-queens-ny"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Pure Grown",
-    "slug": "pure-grown",
-    "description": "Pure Grown collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/pure-grown"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Resources",
-    "slug": "resources",
-    "description": "Resources collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/ring-size-sheet"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Royal Jewelry",
-    "slug": "royal-jewelry",
-    "description": "Royal Jewelry collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/royal-jewelry"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Services",
-    "slug": "services",
-    "description": "Services collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/services"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Shop All",
-    "slug": "shop-all",
-    "description": "Shop All collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/shop-all"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Silver Jewelry Bayside Ny",
-    "slug": "silver-jewelry-bayside-ny",
-    "description": "Silver Jewelry Bayside Ny collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/silver-1"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Silver",
-    "slug": "silver",
-    "description": "Silver collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/silver"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
-  },
-  {
-    "name": "Valina",
-    "slug": "valina",
-    "description": "Valina collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/valina"
-    ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
+    "productCount": 15
   },
   {
     "name": "Wedding Bands",
     "slug": "wedding-bands",
-    "description": "Wedding Bands collection from Bell Family Jewelers source catalog.",
+    "type": "product-category",
+    "description": "Five stone prong set wedding bands extracted from the source catalog.",
+    "subcategories": [
+      "5 Stone Prong Set Wedding Bands"
+    ],
     "sourcePages": [
       "https://www.bellfamilyjewelers.com/wedding-bands"
     ],
-    "imageUrls": [],
-    "imagePaths": [
-      "/media/fallback-b1344c902ee5.png",
-      "/media/fallback-3545a2ca65ed.png",
-      "/media/fallback-5266baa1564e.png",
-      "/media/fallback-226182e428f5.png",
-      "/media/fallback-5cba253bd86c.png",
-      "/media/fallback-0f316a1f3466.png",
-      "/media/fallback-172dca89af7b.png"
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_wedding-bands.md"
     ],
-    "productCount": 7
+    "imagePaths": [
+      "/media/85470-1ef986072c81.webp",
+      "/media/85454-82663f7f746a.webp",
+      "/media/85354-e4183c13b274.webp",
+      "/media/85350-70617f4b9e31.webp",
+      "/media/85347-7ef88ccb12c7.webp",
+      "/media/51098-w-33bdafd85645.webp",
+      "/media/50633-w-4-124a897cf037.webp",
+      "/media/84463-21f007f4e553.webp",
+      "/media/83709-099c24485a15.webp",
+      "/media/83687-6efb7316c7f6.webp",
+      "/media/83380-c562c8111ecd.webp",
+      "/media/83352-277caee89192.webp",
+      "/media/83274-ef31644c283e.webp",
+      "/media/82822-b3b0a2e251d7.webp",
+      "/media/82801-f06d64646a49.webp"
+    ],
+    "productCount": 15
   },
   {
-    "name": "What Is A Puregrowndiamond",
-    "slug": "what-is-a-puregrowndiamond",
-    "description": "What Is A Puregrowndiamond collection from Bell Family Jewelers source catalog.",
-    "sourcePages": [
-      "https://www.bellfamilyjewelers.com/what-is-a-puregrowndiamond"
+    "name": "Color Rings",
+    "slug": "color-rings",
+    "type": "product-category",
+    "description": "Oval color rings extracted from the source catalog.",
+    "subcategories": [
+      "Oval Color Rings"
     ],
-    "imageUrls": [],
-    "imagePaths": [],
-    "productCount": 0
+    "sourcePages": [
+      "https://www.bellfamilyjewelers.com/color-bands"
+    ],
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_color-bands.md"
+    ],
+    "imagePaths": [
+      "/media/84512-0f048123044e.webp",
+      "/media/84502-ab8779075ec2.webp",
+      "/media/84492-6d061d04ff1f.webp",
+      "/media/84491-3da404959daa.webp",
+      "/media/84484-37b233e0ce1a.webp",
+      "/media/84481-6b71f145816b.webp",
+      "/media/84459-4d227b13a4f7.webp",
+      "/media/84418-5ddc8b60a953.webp",
+      "/media/84410-136616bce87f.webp",
+      "/media/84343-afa049f19e29.webp",
+      "/media/84232-6c5ca02043eb.webp",
+      "/media/84234-cda43bb24c5f.webp",
+      "/media/84235-1419f6182148.webp",
+      "/media/84231-e349b264d911.webp",
+      "/media/thumbnail-f3f4551bd205.webp"
+    ],
+    "productCount": 15
+  },
+  {
+    "name": "Earrings",
+    "slug": "earrings",
+    "type": "product-category",
+    "description": "Hoop earrings extracted from the source catalog.",
+    "subcategories": [
+      "Hoop Earrings"
+    ],
+    "sourcePages": [
+      "https://www.bellfamilyjewelers.com/earings"
+    ],
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_earings.md"
+    ],
+    "imagePaths": [
+      "/media/41125-0-af660a60ef58.webp",
+      "/media/41124-ddc9d2dc8687.webp",
+      "/media/41122-7309d7f36ea1.webp",
+      "/media/41121-e6aa31810ef7.webp",
+      "/media/lger025-7837e3eed21a.webp",
+      "/media/lger024-319047ac5635.webp",
+      "/media/lger020-5433e6a2545b.webp",
+      "/media/lger028-09-44mm-ad7c18b69430.webp",
+      "/media/lger028-09-34mm-cebcd26f48ce.webp",
+      "/media/lger028-09-25mm-301d5fdd324c.webp",
+      "/media/lger027-20-30mm-f8e46af14859.webp",
+      "/media/lger026-05-41mm-6828cd445394.webp",
+      "/media/lger026-04-28mm-e115dd4c4a5f.webp",
+      "/media/lger026-03-20mm-6600ab45df63.webp",
+      "/media/thumbnail-f3f4551bd205.webp"
+    ],
+    "productCount": 15
+  },
+  {
+    "name": "Pendants",
+    "slug": "pendants",
+    "type": "product-category",
+    "description": "Round halo pendants extracted from the source catalog.",
+    "subcategories": [
+      "Round Halo Pendants"
+    ],
+    "sourcePages": [
+      "https://www.bellfamilyjewelers.com/pendants"
+    ],
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_pendants.md"
+    ],
+    "imagePaths": [
+      "/media/32614-93bc85c2de4f.webp",
+      "/media/32487-1f8af65d3b4b.webp",
+      "/media/32430-e8cd46d4f26a.webp",
+      "/media/32563-02d7e2594086.webp",
+      "/media/32483-96775f7b4108.webp",
+      "/media/32398-37b4ab395e42.webp",
+      "/media/32397-b559a13f499f.webp",
+      "/media/32486-a2d2b644b57b.webp",
+      "/media/32387-f7a6250ceae3.webp",
+      "/media/32439-95ce7d0122b5.webp",
+      "/media/32438-42d8b53bc6ef.webp",
+      "/media/32366-2d2c4e4fe4ba.webp",
+      "/media/32365-0-9a98be38975f.webp",
+      "/media/32346-a6e45613b0fa.webp",
+      "/media/32345-99954f4290ab.webp"
+    ],
+    "productCount": 15
+  },
+  {
+    "name": "Bracelets",
+    "slug": "bracelets",
+    "type": "product-category",
+    "description": "Bracelets extracted from the source catalog.",
+    "subcategories": [
+      "Bracelets"
+    ],
+    "sourcePages": [
+      "https://www.bellfamilyjewelers.com/bracelets"
+    ],
+    "sourceMarkdownFiles": [
+      "raw messy data/www.bellfamilyjewelers.com_bracelets.md"
+    ],
+    "imagePaths": [
+      "/media/c1br115-41a96127b1ce.webp",
+      "/media/c1br114-d5533ad7eee1.webp",
+      "/media/70652-0356d05f8241.webp",
+      "/media/70651-0d069e521347.webp",
+      "/media/lgbr005-ce4880838bfb.webp",
+      "/media/lgbr004-7e0d1e166d11.webp",
+      "/media/lgbr003-b10f00272426.webp",
+      "/media/lgbr001-9-9cf6c42fc786.webp",
+      "/media/thumbnail-c885fd6789be.webp"
+    ],
+    "productCount": 15
   }
 ]
