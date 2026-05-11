@@ -7,7 +7,7 @@ export default function AppointmentForm() {
 
   return (
     <form
-      className="border border-[#dfd4c4] bg-[#fbf8f2] p-5 shadow-[0_18px_50px_rgb(40_28_14_/_0.10)] sm:p-7"
+      className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-5 shadow-[0_18px_50px_rgb(40_28_14_/_0.10)] sm:p-7"
       aria-label="Appointment request form"
       onSubmit={(event) => {
         event.preventDefault()

@@ -8,15 +8,15 @@ export default function CollectionCard({ collection }: { collection: Collection 
   return (
     <Link
       href={`/collections/${collection.slug}`}
-      className="group block overflow-hidden border border-[#dfd4c4] bg-[#fbf8f2] transition-all duration-300 hover:-translate-y-1 hover:border-[#c9a45f] hover:shadow-[0_18px_50px_rgb(40_28_14_/_0.12)]"
+      className="surface-card scroll-card group block overflow-hidden border border-[#dfd4c4] bg-[#fbf8f2] transition-all duration-500 hover:-translate-y-1 hover:border-[#c9a45f] hover:shadow-[0_22px_55px_rgb(40_28_14_/_0.14)]"
     >
-      <div className="relative aspect-[16/11] bg-[#efe4d4]">
+      <div className="relative aspect-[16/11] overflow-hidden bg-[#efe4d4]">
         <Image
           src={image}
           alt={collection.name}
           fill
           sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-          className="object-contain p-8 transition-transform duration-500 group-hover:scale-105"
+          className="scroll-image object-contain p-8 transition-transform duration-700 group-hover:scale-105"
         />
       </div>
       <div className="p-5">

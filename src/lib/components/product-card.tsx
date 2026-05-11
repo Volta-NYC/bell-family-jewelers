@@ -9,7 +9,7 @@ export default function ProductCard({ product, priority = false }: { product: Pr
   const loadingProps = priority ? { priority: true } : { loading: 'lazy' as const }
 
   return (
-    <article className="group overflow-hidden border border-[#dfd4c4] bg-[#fbf8f2] transition-all duration-300 hover:-translate-y-1 hover:border-[#c9a45f] hover:shadow-[0_18px_50px_rgb(40_28_14_/_0.12)]">
+    <article className="surface-card scroll-card group overflow-hidden border border-[#dfd4c4] bg-[#fbf8f2] transition-all duration-500 hover:-translate-y-1 hover:border-[#c9a45f] hover:shadow-[0_22px_55px_rgb(40_28_14_/_0.14)]">
       <Link href={`/products/${product.slug}`} className="block">
         <div className="image-sheen relative aspect-[4/5] bg-[#f2eadf]">
           <Image
@@ -17,7 +17,7 @@ export default function ProductCard({ product, priority = false }: { product: Pr
             alt={product.name}
             fill
             sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
-            className="object-contain p-8 transition-transform duration-500 group-hover:scale-105"
+            className="scroll-image object-contain p-8 transition-transform duration-700 group-hover:scale-105"
             {...loadingProps}
           />
         </div>

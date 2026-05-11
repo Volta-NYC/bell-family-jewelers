@@ -14,14 +14,14 @@ export default async function DesignerPage({ params }: { params: Promise<{ slug:
 
   return (
     <div className="site-container py-12 sm:py-16">
-      <Link href="/designers" className="text-xs font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Designers</Link>
+      <Link href="/designers" className="scroll-reveal text-xs font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Designers</Link>
       <div className="mt-6 grid gap-10 lg:grid-cols-[0.9fr_1.1fr]">
-        <section>
+        <section className="scroll-reveal">
           <h1 className="font-display text-5xl leading-tight text-[#191714] sm:text-6xl">{designer.name}</h1>
           <p className="mt-5 text-lg leading-8 text-[#5c5145]">
             Brand profile generated only from the local source markdown for this page.
           </p>
-          <dl className="mt-8 space-y-3 border border-[#dfd4c4] bg-[#fbf8f2] p-5 text-sm">
+          <dl className="surface-card scroll-card mt-8 space-y-3 border border-[#dfd4c4] bg-[#fbf8f2] p-5 text-sm">
             <div>
               <dt className="text-[#8f8271]">Source page</dt>
               <dd className="mt-1 break-words text-[#191714]">{sourcePage?.sourceUrl ?? 'Not captured'}</dd>
@@ -33,13 +33,13 @@ export default async function DesignerPage({ params }: { params: Promise<{ slug:
           </dl>
         </section>
 
-        <section className="space-y-5">
+        <section className="scroll-grid space-y-5">
           {image && (
-            <div className="relative aspect-[16/10] border border-[#dfd4c4] bg-[#fbf8f2]">
-              <Image src={image} alt={designer.name} fill sizes="(min-width: 1024px) 52vw, 100vw" className="object-contain p-8" />
+            <div className="surface-card scroll-card relative aspect-[16/10] overflow-hidden border border-[#dfd4c4] bg-[#fbf8f2]">
+              <Image src={image} alt={designer.name} fill sizes="(min-width: 1024px) 52vw, 100vw" className="scroll-image object-contain p-8" />
             </div>
           )}
-          <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-6">
+          <div className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-6">
             {copy.length > 0 ? (
               <div className="space-y-4">
                 {copy.slice(0, 8).map((line) => (

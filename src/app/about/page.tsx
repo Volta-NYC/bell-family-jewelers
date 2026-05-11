@@ -5,14 +5,14 @@ export default function AboutPage() {
   return (
     <div>
       <section className="bg-[#191714] text-[#fbf5e8]">
-        <div className="site-container py-12 sm:py-16">
+        <div className="site-container scroll-reveal py-12 sm:py-16">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#c9a45f]">About</p>
           <h1 className="mt-3 max-w-4xl font-display text-5xl leading-tight sm:text-6xl">A family jeweler rooted in Bayside.</h1>
         </div>
       </section>
 
-      <section className="site-container grid gap-10 py-12 sm:py-16 lg:grid-cols-[0.8fr_1.2fr]">
-        <aside className="border border-[#dfd4c4] bg-[#fbf8f2] p-6 lg:self-start">
+      <section className="site-container section-rule grid gap-10 py-12 sm:py-16 lg:grid-cols-[0.8fr_1.2fr]">
+        <aside className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-6 lg:self-start">
           <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Business info</p>
           <dl className="mt-5 space-y-4 text-sm">
             <div>
@@ -33,7 +33,7 @@ export default function AboutPage() {
           </Link>
         </aside>
 
-        <article className="space-y-6">
+        <article className="scroll-reveal space-y-6">
           {business.about.map((paragraph) => (
             <p key={paragraph} className="text-lg leading-9 text-[#4d463e]">
               {paragraph}

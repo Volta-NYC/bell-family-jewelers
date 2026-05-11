@@ -7,7 +7,7 @@ export default function CartPage() {
 
   return (
     <div className="site-container py-12 sm:py-16">
-      <div className="mb-10 max-w-3xl">
+      <div className="scroll-reveal mb-10 max-w-3xl">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8b7353]">Cart Preview</p>
         <h1 className="mt-3 font-display text-5xl leading-tight text-[#191714] sm:text-6xl">Assisted checkout</h1>
         <p className="mt-5 text-lg leading-8 text-[#5c5145]">
@@ -16,9 +16,9 @@ export default function CartPage() {
       </div>
 
       <div className="grid gap-8 lg:grid-cols-[1fr_380px]">
-        <div className="space-y-4">
+        <div className="scroll-grid space-y-4">
           {previewItems.map((product) => (
-            <article key={product.slug} className="grid grid-cols-[112px_1fr] gap-4 border border-[#dfd4c4] bg-[#fbf8f2] p-4 sm:grid-cols-[150px_1fr_auto] sm:items-center">
+            <article key={product.slug} className="surface-card scroll-card grid grid-cols-[112px_1fr] gap-4 border border-[#dfd4c4] bg-[#fbf8f2] p-4 sm:grid-cols-[150px_1fr_auto] sm:items-center">
               <div className="relative aspect-square bg-[#f2eadf]">
                 <Image src={product.imagePaths[0]} alt={product.name} fill sizes="150px" className="object-contain p-4" />
               </div>
@@ -32,7 +32,7 @@ export default function CartPage() {
           ))}
         </div>
 
-        <aside className="border border-[#191714] bg-[#191714] p-6 text-[#fbf5e8] lg:self-start">
+        <aside className="scroll-sticky border border-[#191714] bg-[#191714] p-6 text-[#fbf5e8] lg:self-start">
           <h2 className="font-display text-3xl">Request summary</h2>
           <dl className="mt-5 space-y-3 text-sm">
             <div className="flex justify-between border-b border-white/10 pb-3">

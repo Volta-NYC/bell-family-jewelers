@@ -2,6 +2,7 @@ import './globals.css'
 import Navbar from '@/lib/components/navbar'
 import Footer from '@/lib/components/footer'
 import AnnouncementBanner from '@/lib/components/announcement-banner'
+import ScrollMotion from '@/lib/components/scroll-motion'
 
 export const metadata = {
   title: 'Bell Family Jewelers | Bayside, NY',
@@ -16,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-scroll-behavior="smooth">
       <body className="min-h-screen flex flex-col bg-[#f6f1e8] text-[#191714]">
+        <ScrollMotion />
         <AnnouncementBanner />
         <Navbar />
         <main className="flex-1 w-full">

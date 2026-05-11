@@ -3,7 +3,7 @@ import { business, featuredCollections } from '@/lib/data'
 
 export default function Footer() {
   return (
-    <footer className="mt-20 bg-[#191714] text-[#d8cdbd]">
+    <footer className="scroll-reveal mt-20 bg-[#191714] text-[#d8cdbd]">
       <div className="site-container grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
         <div>
           <Link href="/" className="font-display text-3xl text-[#fbf5e8]">Bell Family Jewelers</Link>

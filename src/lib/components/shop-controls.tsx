@@ -51,7 +51,7 @@ export default function ShopControls({ products }: { products: Product[] }) {
 
   return (
     <div className="space-y-8">
-      <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4 luxury-shadow sm:p-5">
+      <div className="surface-card scroll-reveal border border-[#dfd4c4] bg-[#fbf8f2] p-4 luxury-shadow sm:p-5">
         <div className="grid gap-3 lg:grid-cols-[1.5fr_1fr_1fr_1fr_auto]">
           <label className="block">
             <span className="mb-2 block text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Search</span>
@@ -116,12 +116,12 @@ export default function ShopControls({ products }: { products: Product[] }) {
         </div>
       </div>
 
-      <div className="flex flex-col gap-2 border-b border-[#dfd4c4] pb-4 sm:flex-row sm:items-end sm:justify-between">
+      <div className="scroll-reveal flex flex-col gap-2 border-b border-[#dfd4c4] pb-4 sm:flex-row sm:items-end sm:justify-between">
         <p aria-live="polite" className="font-display text-3xl text-[#191714]">{filtered.length} pieces</p>
         <p className="text-sm text-[#6c6258]">Showing {filtered.length} of {products.length} source catalog products</p>
       </div>
 
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div className="scroll-grid grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {filtered.map((product) => (
           <ProductCard key={`${product.slug}-${product.sourceMarkdownFile}`} product={product} />
         ))}

@@ -16,13 +16,13 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   return (
     <div>
       <section className="site-container grid gap-10 py-12 sm:py-16 lg:grid-cols-[1.08fr_0.92fr]">
-        <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4 luxury-shadow">
-          <div className="relative aspect-square bg-[#f2eadf]">
-            <Image src={image} alt={product.name} fill priority sizes="(min-width: 1024px) 55vw, 100vw" className="object-contain p-8 sm:p-12" />
+        <div className="surface-card scroll-reveal border border-[#dfd4c4] bg-[#fbf8f2] p-4 luxury-shadow">
+          <div className="relative aspect-square overflow-hidden bg-[#f2eadf]">
+            <Image src={image} alt={product.name} fill priority sizes="(min-width: 1024px) 55vw, 100vw" className="scroll-image object-contain p-8 sm:p-12" />
           </div>
         </div>
 
-        <div className="lg:sticky lg:top-28 lg:self-start">
+        <div className="scroll-sticky lg:sticky lg:top-28 lg:self-start">
           <div className="border-b border-[#dfd4c4] pb-6">
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8b7353]">{product.category}</p>
             <h1 className="mt-3 font-display text-5xl leading-tight text-[#191714] sm:text-6xl">{product.name}</h1>
@@ -30,26 +30,26 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           </div>
 
           <dl className="mt-6 grid gap-4 text-sm sm:grid-cols-2">
-            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4">
+            <div className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-4">
               <dt className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Style</dt>
               <dd className="mt-2 text-[#191714]">{styleNumber ?? 'Not specified'}</dd>
             </div>
-            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4">
+            <div className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-4">
               <dt className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Pricing</dt>
               <dd className="mt-2 text-[#191714]">{note}</dd>
             </div>
-            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4">
+            <div className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-4">
               <dt className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Availability</dt>
               <dd className="mt-2 text-[#191714]">{product.availability === 'not_specified' ? 'Not specified in source' : product.availability}</dd>
             </div>
-            <div className="border border-[#dfd4c4] bg-[#fbf8f2] p-4">
+            <div className="surface-card scroll-card border border-[#dfd4c4] bg-[#fbf8f2] p-4">
               <dt className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#8b7353]">Source</dt>
               <dd className="mt-2 truncate text-[#191714]">{product.sourceMarkdownFile}</dd>
             </div>
           </dl>
 
           {(product.materials.length > 0 || product.variants.length > 0) && (
-            <div className="mt-6 border border-[#dfd4c4] bg-[#fbf8f2] p-5">
+            <div className="surface-card scroll-card mt-6 border border-[#dfd4c4] bg-[#fbf8f2] p-5">
               <h2 className="font-display text-2xl">Extracted details</h2>
               <div className="mt-4 flex flex-wrap gap-2">
                 {[...product.materials, ...product.variants].map((detail) => (
@@ -61,7 +61,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             </div>
           )}
 
-          <div className="mt-6 border border-[#191714] bg-[#191714] p-5 text-[#fbf5e8]">
+          <div className="scroll-card mt-6 border border-[#191714] bg-[#191714] p-5 text-[#fbf5e8]">
             <h2 className="font-display text-3xl">Cart preview</h2>
             <div className="mt-4 space-y-3 text-sm text-[#d8cdbd]">
               <div className="flex justify-between gap-4 border-b border-white/10 pb-3">

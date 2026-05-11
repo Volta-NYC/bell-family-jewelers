@@ -14,19 +14,19 @@ export default async function EducationDetailPage({ params }: { params: Promise<
     <div>
       <section className="bg-[#191714] text-[#fbf5e8]">
         <div className="site-container grid gap-8 py-12 sm:py-16 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-          <div>
+          <div className="scroll-reveal">
             <Link href="/education" className="text-xs font-semibold uppercase tracking-[0.18em] text-[#c9a45f]">Education</Link>
             <h1 className="mt-4 font-display text-5xl leading-tight sm:text-6xl">{page.title}</h1>
           </div>
           {heroImage && (
-            <div className="relative aspect-[16/9] border border-[#5c5145] bg-[#fbf8f2]">
-              <Image src={heroImage} alt={page.title} fill priority sizes="(min-width: 1024px) 52vw, 100vw" className="object-cover" />
+            <div className="scroll-reveal relative aspect-[16/9] overflow-hidden border border-[#5c5145] bg-[#fbf8f2]">
+              <Image src={heroImage} alt={page.title} fill priority sizes="(min-width: 1024px) 52vw, 100vw" className="scroll-image object-cover" />
             </div>
           )}
         </div>
       </section>
 
-      <article className="site-container max-w-4xl py-12 sm:py-16">
+      <article className="site-container scroll-reveal max-w-4xl py-12 sm:py-16">
         <div className="space-y-6">
           {page.contentPreview.slice(0, 34).map((line) => {
             const looksHeading = line.length < 46 && !line.endsWith('.') && !line.includes(',')
