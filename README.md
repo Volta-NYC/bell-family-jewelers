@@ -1,62 +1,49 @@
-# Purpose
-This repository is the base template that should be used for all future businesses, including basic files such as navbar, footer, and other configs.
+# Bell Family Jewelers (Luxury Redesign)
 
-# Business Name
+A full Next.js + TypeScript + Tailwind rebuild of Bell Family Jewelers using scraped markdown source files in `raw messy data/`.
 
-Replace this README with business-specific details.
+## What this project includes
 
----
+- Premium, mobile-first redesign
+- Data-driven pages from local JSON datasets
+- Local media references via `/public/media/`
+- Search + filtering on `/shop`
+- Dynamic collection and product routes
+- Contact/appointment form UI
+- Services and designer pages
 
-## 🚀 Overview
+## Data pipeline
 
-Short description of the business and what this website is for.
+Source markdown files are parsed from:
 
-Example:
-"This website serves as the official online presence for [Business Name], showcasing services, contact information, and brand identity."
+- `raw messy data/**/*.md`
 
----
+Generated outputs:
 
-## 🛠 Tech Stack
+- `data/business.json`
+- `data/collections.json`
+- `data/pages.json`
+- `data/products.json`
+- `data/media-map.json`
 
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- Hosted on Vercel
+Run the pipeline:
 
----
+```bash
+npm run generate:data
+```
 
-## 📂 Project Structure
+Note: if some external media hosts are unreachable from the execution environment, deterministic local fallback images are generated so all rendered pages still reference local media paths.
 
-- `src/app` → App Router (homepage, layout, globals)
-- `src/app/pages` → Site pages (About, Contact, etc.)
-- `src/lib/components` → Shared UI components (Navbar/Footer)
-- `public` → Static assets
-
----
-
-## 🧑‍💻 Development
-
-Install dependencies:
+## Development
 
 ```bash
 npm install
-npm install --save-dev @types/react
-```
-
-Run locally:
-
-```bash
 npm run dev
 ```
 
----
+## Validation
 
-## ✏️ Customization Checklist
-
-- [ ] Replace Business Name in navbar + footer
-- [ ] Update metadata in `src/app/layout.tsx`
-- [ ] Replace homepage content (`src/app/page.tsx`)
-- [ ] Update About + Contact pages (`src/app/pages/*`)
-- [ ] Replace favicon + assets in `public/`
-- [ ] Update SEO metadata
-- [ ] (Optional) Update Volta credit link text / URL in the footer
+```bash
+npm run lint
+npm run build
+```

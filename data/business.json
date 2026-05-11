@@ -1,0 +1,75 @@
+{
+  "name": "Bell Family Jewelers",
+  "address": "40-21 Bell Blvd. Bayside, NY 11361",
+  "phones": [
+    "(718) 279-3035"
+  ],
+  "emails": [
+    "Bellfamilyjewelers@yahoo.com",
+    "bellfamilyjewelers@yahoo.com"
+  ],
+  "hours": {
+    "Tuesday": "10:00 AM - 6:00 PM",
+    "Wednesday": "10:00 AM - 6:00 PM",
+    "Thursday": "10:00 AM - 7:00 PM",
+    "Friday": "10:00 AM - 6:00 PM",
+    "Saturday": "10:00 AM - 5:30 PM",
+    "Sunday & Monday": "CLOSED"
+  },
+  "social": {
+    "facebook": "http://www.facebook.com/bellfamilyjewelers",
+    "instagram": "http://www.instagram.com/bellfamilyjewelers"
+  },
+  "promotions": [
+    "30 - 50% OFF",
+    "Bracelets Bayside NY\u2014 inquire with store for pricing",
+    "30-60% off entire catalog - inquire with store for pricing",
+    "Color Rings Bayside NY \u2014 inquire with store for pricing",
+    "50% OFF",
+    "inquire with store for pricing",
+    "Earinmgs Bayside NY \u2014 inquire with store for pricing",
+    "Pendants Bayside NY \u2014 inquire with store for pricing",
+    "Reason \\#3: Our Bayside lab grown diamonds cost 50% less then natural diamonds.",
+    "Lab created diamonds are made of 100% pure crystallized carbon.",
+    "Jewelry customers come to our store shopping for diamonds all the time. They love the idea of saving 50% on the diamond that they want.",
+    "Silver Jewelery Bayside NY\u2014inquire with store for pricing"
+  ],
+  "homepageCopy": [
+    "Engagement rings are the ultimate expression of love, and Bell Family Jewelers helps you design the engagement ring of your dreams.",
+    "We help transform old or unwanted jewelry into treasures that reflect your true style."
+  ],
+  "services": [
+    "APPRAISALS",
+    "GOLD BUYING",
+    "RESTORATION & REPAIR",
+    "FULL SERVICE CLEANING",
+    "GEM & JEWELRY SETTING",
+    "CUSTOM\u00a0JEWELRY",
+    "DESIGN",
+    "PEARL RESTRINGING",
+    "WATCH REPAIR\u00a0&",
+    "RESTORATION"
+  ],
+  "designers": [
+    {
+      "name": "Endless Designs",
+      "slug": "endless-designs"
+    },
+    {
+      "name": "Phillip Gavriel",
+      "slug": "phillip-gavriel"
+    },
+    {
+      "name": "Royal Jewelry",
+      "slug": "royal-jewelry"
+    },
+    {
+      "name": "Royal Chain",
+      "slug": "royal-chain"
+    },
+    {
+      "name": "Valina",
+      "slug": "valina"
+    }
+  ]
+}
