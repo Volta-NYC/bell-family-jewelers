@@ -54,7 +54,17 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="site-container flex flex-col gap-2 py-5 text-xs text-[#8f8271] sm:flex-row sm:items-center sm:justify-between">
           <p>© {new Date().getFullYear()} Bell Family Jewelers</p>
-          <p>Local data and media generated from scraped source markdown.</p>
+          <p>
+            Made by{' '}
+            <a
+              href="https://voltanyc.org/"
+              target="_blank"
+              rel="noreferrer"
+              className="font-medium text-[#b8f5c2] transition-colors hover:text-[#d6fbdd]"
+            >
+              Volta
+            </a>
+          </p>
         </div>
       </div>
     </footer>
